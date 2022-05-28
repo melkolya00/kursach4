@@ -1,0 +1,9 @@
+Николай	333882421	АВ12345	login	password	0
+Семён	296000307	АВ30909	semen	semen	0
+artur	459065643	ab3452932	ara333	145	0
+Николай	3344455657	ав4567	kolyas	kolyas	0
+Ruslan	6666666	AB45654	admins	admins	0
+Arkadiy	290017007	AB5999032	admina	admina	0
+kkk	435435	AB345RR	qwe	qwe	0
+Ilya	455	AB34	ilya1	ilya1	0
+FDSFD	2976546	AB4324	iii	ooo	0
